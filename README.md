@@ -99,7 +99,8 @@ These scores suggest high predictive accuracy and strong generalization.
 * Multi-output regression efficiently captured both response variables.
 
 ---
-![image alt](https://github.com/emhkayho/MCSteelPropML/blob/413f9ee4420cb8104564e9105f26215b4d0da7ee/hardness_toughness_plot.JPG)
+
+![hardness_toughness_plot](https://github.com/emhkayho/MCSteelPropML/blob/0b5d67d469c7da2c4fc7a570da74d93a14c83913/hardness_toughness_plot.JPG)
 
 
 ## 5. Conclusion
