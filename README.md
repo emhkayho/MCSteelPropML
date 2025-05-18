@@ -75,8 +75,11 @@ To predict both hardness and toughness, I implemented a **MultiOutputRegressor**
 ```python
 R² for Hardness: 0.9996
 R² for Toughness: 0.9942
-```
 
+```
+![Hardness](https://github.com/emhkayho/MCSteelPropML/blob/f3d8cf01d9acf2a66ea331aedba55417094f134b/Hardness%20pred.PNG)  
+
+![Toughness](https://github.com/emhkayho/MCSteelPropML/blob/f3d8cf01d9acf2a66ea331aedba55417094f134b/Toughness%20pred.PNG)
 
 These scores suggest high predictive accuracy and strong generalization.
 
