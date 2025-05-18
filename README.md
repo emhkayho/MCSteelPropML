@@ -1,6 +1,8 @@
 
 # 🔬From Lab Furnace to Code: Predicting Mechanical Properties of Heat-Treated Medium Carbon Steel
 
+![Furnace_To_code](https://github.com/emhkayho/MCSteelPropML/blob/409794f97d9aa970c0f8415cfc731c73721711a2/Furnace.jpg)
+
 ## 1. Introduction
 
 This machine learning project builds on the results of my undergraduate thesis, which focused on the **Mechanical Properties Study of Inter-Critical Temperature Treated Medium Carbon Steel at Varying Undercooling**. The goal was to explore how heat treatment temperature and quenching media influence properties like **hardness** and **toughness**, and to use machine learning to simulate and predict these outcomes from a synthetically expanded dataset.
