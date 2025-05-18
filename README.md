@@ -98,7 +98,7 @@ These scores suggest high predictive accuracy and strong generalization.
 * Scatter plots of hardness and toughness vs. temperature showed clear trends segmented by media.
 * Multi-output regression efficiently captured both response variables.
 
-![hardness_toughness_plot](https://github.com/emhkayho/MCSteelPropML/blob/0b5d67d469c7da2c4fc7a570da74d93a14c83913/hardness_toughness_plot.JPG)
+![hardness_toughness_plot](https://github.com/emhkayho/MCSteelPropML/blob/50f1e778f7b6dc81087245e0e3f4ef5c9f6c50c6/hardness_toughness_plot.PNG)
 
 ---
 
